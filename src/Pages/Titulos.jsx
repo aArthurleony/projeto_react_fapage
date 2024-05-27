@@ -1,4 +1,4 @@
-import { H1Campeao, DivCampeao, UCLimg, ContainerTitulos, AnoTitulo, TituloItem, TituloGeral } from "../Server";
+import { H1Campeao, DivCampeao, UCLimg, ContainerTitulos, AnoTitulo, TituloItem, TituloGeral, } from "../Server";
 import Img from "../../img/ucl.png";
 
 const Titulos = () => {
@@ -94,6 +94,7 @@ const Titulos = () => {
                     <TituloItem>Vice-campeão Paulista</TituloItem>
                 </ContainerTitulos>
             </DivCampeao>
+
         </>
     );
 }

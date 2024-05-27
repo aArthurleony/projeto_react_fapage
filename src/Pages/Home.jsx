@@ -8,7 +8,6 @@ const Home = () => {
         <>
             <MainContainer>
                 <NeymarHome src={Img}></NeymarHome>
-                <h1>seja bem vindo</h1>
             </MainContainer>
             <Footer />
         </>

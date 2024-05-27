@@ -67,7 +67,7 @@ export const Silencioimg = styled.img`
 `;
 
 export const DivErro = styled.div`
-    margin: 200px auto;
+    margin: 350px auto;
     width: max-content;
     height: auto;
     display: flex;
@@ -195,10 +195,9 @@ export const MainContainer = styled.main`
     justify-content: center;
     align-items: center;
     padding: 40px 20px;
-    
 `;
 export const NeymarHome = styled.img`
-    margin-left: -25%;
+    margin-left: -40%;
     -webkit-mask-image: linear-gradient(to top, transparent 50%, black 85%);
     mask-image: linear-gradient(to top, transparent 40%, black 72%);
 `

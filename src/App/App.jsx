@@ -6,6 +6,7 @@ import Contato from "../Pages/Contato"
 import Pagina404 from "../Pages/PaginaErro"
 import './App.css'
 import Titulos from "../Pages/Titulos"
+
 //importar cada página direto no app
 
 //O BrowserRouter deve ser o componente que envolve tudo que depende do react-router.
