@@ -145,9 +145,10 @@ export const FooterContainer = styled.footer`
     background-color: #f8f8f8;
     text-align: center;
     border-top: 1px solid #e7e7e7;
-    position: relative;
+    position: fixed;
     bottom: 0;
     left: 0;
+    
 `;
 
 export const FooterText = styled.p`
